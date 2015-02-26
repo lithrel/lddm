@@ -1,0 +1,94 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>La DB des dédé du didi</title>
+    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.5/css/jquery.dataTables.css"/>
+    <script type="text/javascript" charset="utf8" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.5/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css"/>
+</head>
+<body>
+
+<div id="content">
+    <table id="datatable" class="display compact cell-border">
+        <thead>
+            <tr>
+                <th>Episode</th>
+                <th>Ordre</th>
+                <th>Num</th>
+                <th>Jeu</th>
+                <th>Titre</th>
+                <th>Compositeur</th>
+                <th>Lien</th>
+                <th>Invité</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+<script>
+
+    $(document).ready( function () {
+
+        $.get('lddm.json', function (lddmData) {
+
+            $('#datatable').DataTable({
+                data : lddmData.tracks,
+                columns: [
+                    {
+                        data: function (row) {
+                            var ep = lddmData.episodes[row.episode_id - 1];
+                            return '<a href="' + ep.url + ' ">' + ep.id + '</a>';
+                        },
+                        width: '3%',
+                        className: 'episode',
+                        type: 'html-num'
+                    },
+                    {data: 'num_played', width: '3%', type: 'num'},
+                    {data: 'num_track', width: '3%', type: 'num'},
+                    {data: 'game_title'},
+                    {data: 'title'},
+                    {data: 'author'},
+                    {data: function (row) {
+                        if (!row.author_link || row.author_link == '') {
+                            return '';
+                        }
+                        var links = row['author_link'].split(', ');
+                        var l = links.map(function (link) { return '<a href="' + link + '">' + link + '</a>'; });
+                        return l.join(', ');
+                    }},
+                    {data: function (row) {
+                        return row.type === 'interlude' ? lddmData.episodes[row.episode_id - 1].guest : '';
+                    }},
+                    {data: 'type'}
+                ],
+                order      : [[0, 'asc'], [1, 'asc']],
+                pageLength : 25,
+            });
+
+            $(document).tooltip({
+                items   : "td.episode",
+                content : function() {
+                    var epId = $(this).text();
+                    var ep = lddmData.episodes[epId - 1];
+                    return '<table>'
+                        + '<tr><td colspan="2">' + ep.title + '</td></tr>'
+                        + '<tr><th>Date</th><td>' + ep.date + '</td></tr>'
+                        + (ep.guest ? '<tr><th>Invité</th><td>' + ep.guest + '</td></tr>' : '')
+                        + '<tr><th>Tags</th><td>' + ep.tags.join(', ') + '</td></tr>'
+                        + '<tr><th>Tracks</th><td>' + ep.track_count + '</td></tr>'
+                        + '</table>';
+                }
+            });
+
+        });
+
+    });
+</script>
+
+</body>
+</html>
