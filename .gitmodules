@@ -1,0 +1,3 @@
+[submodule "jquery-oembed-all"]
+	path = jquery-oembed-all
+	url = https://github.com/nfl/jquery-oembed-all.git

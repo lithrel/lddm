@@ -6,7 +6,17 @@
     <script type="text/javascript" charset="utf8" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.5/js/jquery.dataTables.js"></script>
     <script type="text/javascript" src="http://code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+    <script type="text/javascript" src="jquery-oembed-all/jquery.oembed.js"></script>
+
     <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css"/>
+    <link rel="stylesheet" type="text/css" href="jquery-oembed-all/jquery.oembed.css"/>
+
+    <style>
+        p > img {
+            float: left;
+            padding: 3px;
+        }
+    </style>
 </head>
 <body>
 
@@ -58,7 +68,7 @@
                             return '';
                         }
                         var links = row['author_link'].split(', ');
-                        var l = links.map(function (link) { return '<a href="' + link + '">' + link + '</a>'; });
+                        var l = links.map(function (link) { return '<a href="' + link + '" class="oembed">' + link + '</a>'; });
                         return l.join(', ');
                     }},
                     {data: function (row) {
@@ -67,7 +77,7 @@
                     {data: 'type'}
                 ],
                 order      : [[0, 'asc'], [1, 'asc']],
-                pageLength : 25,
+                pageLength : 15,
             });
 
             $(document).tooltip({
@@ -84,6 +94,24 @@
                         + '</table>';
                 }
             });
+
+            $(".oembed").oembed(null,{
+                embedMethod: 'append',
+                apikeys: {
+                  // amazon : '<your amazon key>',
+                }
+            });
+
+            $('#datatable').on('draw.dt', function () {
+                console.log( 'Table redrawn' );
+
+                $(".oembed").oembed(null,{
+                    embedMethod: 'append',
+                    apikeys: {
+                      // amazon : '<your amazon key>',
+                    }
+                });
+            } );
 
         });
 
