@@ -218,6 +218,18 @@
             ],
             "guest": "Frédéric \"El Mobo\" Motte (Fury of the Furries, Nightmare Creatures)",
             "track_count": 25
+        },
+        {
+            "id": 18,
+            "title": "\u00c9pisode #18 : Jukebox de mars '15",
+            "date": "25\/03\/2015",
+            "url": "http:\/\/www.radiojv.com\/show\/les-demons-du-midi-18\/",
+            "duration": 0,
+            "tags": [
+                "#Jukebox"
+            ],
+            "guest": "Ben Prunty (FTL, Gravity Ghost, StarCrawlers)",
+            "track_count": 23
         }
     ],
     "tracks": [
@@ -4201,6 +4213,259 @@
             "game_title": "Starfox",
             "author": "Madd Murdock",
             "author_link": "",
+            "type": "reprise"
+        },
+        {
+            "id": "18-1",
+            "episode_id": 18,
+            "num_track": "1",
+            "num_played": 1,
+            "title": "Reconstructing Science",
+            "game_title": "Portal 2",
+            "author": "Mike Morasky",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-2",
+            "episode_id": 18,
+            "num_track": "2",
+            "num_played": 2,
+            "title": "The Goldmongers",
+            "game_title": "Aarklash Legacy",
+            "author": "H-Pi",
+            "author_link": "http:\/\/gameaudiofactory.bandcamp.com\/album\/styx-master-of-shadows-soundtrack",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-3",
+            "episode_id": 18,
+            "num_track": "3",
+            "num_played": 3,
+            "title": "Rapmaster Rocket Racket",
+            "game_title": "Toejam & Earl",
+            "author": "John Baker",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-4",
+            "episode_id": 18,
+            "num_track": "4",
+            "num_played": 4,
+            "title": "Flower Girl",
+            "game_title": "Gravity Ghost",
+            "author": "Ben Prunty",
+            "author_link": "http:\/\/benprunty.bandcamp.com\/album\/gravity-ghost-soundtrack",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-5",
+            "episode_id": 18,
+            "num_track": "5",
+            "num_played": 5,
+            "title": "Grip Millenium",
+            "game_title": "Ridge Racer V",
+            "author": "",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-6",
+            "episode_id": 18,
+            "num_track": "",
+            "num_played": 6,
+            "title": "In the Face of Evil",
+            "game_title": "Hotline Miami 2",
+            "author": "Magic Sword",
+            "author_link": "https:\/\/soundcloud.com\/magic-sword",
+            "type": "actu"
+        },
+        {
+            "id": "18-7",
+            "episode_id": 18,
+            "num_track": "6",
+            "num_played": 7,
+            "title": "Tecks Mecks",
+            "game_title": "Killer 7",
+            "author": "Masafumi Takada,Jun Fukuda",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-8",
+            "episode_id": 18,
+            "num_track": "7 - Alice Madness Returns",
+            "num_played": 8,
+            "title": "Alternate Main Theme",
+            "game_title": "Alice Madness Returns",
+            "author": "Jason Tai",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-9",
+            "episode_id": 18,
+            "num_track": "8",
+            "num_played": 9,
+            "title": "Title",
+            "game_title": "Flood",
+            "author": "Charles Callet",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-10",
+            "episode_id": 18,
+            "num_track": "9",
+            "num_played": 10,
+            "title": "Debris",
+            "game_title": "Stunt Rush",
+            "author": "Dustyroom",
+            "author_link": "http:\/\/dustyroom.bandcamp.com\/album\/stunt-rush-ost",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-11",
+            "episode_id": 18,
+            "num_track": "10",
+            "num_played": 11,
+            "title": "Seeking Treasure",
+            "game_title": "Landstalker",
+            "author": "Motoaki Takenouchi",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-12",
+            "episode_id": 18,
+            "num_track": "",
+            "num_played": 12,
+            "title": "Explore Theme 2",
+            "game_title": "The Elder Scrolls II : Daggerfall",
+            "author": "",
+            "author_link": "",
+            "type": "interlude"
+        },
+        {
+            "id": "18-13",
+            "episode_id": 18,
+            "num_track": "11",
+            "num_played": 13,
+            "title": "Character Theme",
+            "game_title": "Star Wars : Knights of the Old Republic",
+            "author": "Jeremy Soule",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-14",
+            "episode_id": 18,
+            "num_track": "12",
+            "num_played": 14,
+            "title": "Wonder World",
+            "game_title": "Sonic : Lost World",
+            "author": "Tomoya Ohtani",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-15",
+            "episode_id": 18,
+            "num_track": "13",
+            "num_played": 15,
+            "title": "The Clicker",
+            "game_title": "Alan Wake",
+            "author": "Petri Alanko",
+            "author_link": "http:\/\/petrialanko.net\/",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-16",
+            "episode_id": 18,
+            "num_track": "14",
+            "num_played": 16,
+            "title": "Japan Course",
+            "game_title": "Neo Turf Masters",
+            "author": "Takushi Hiyamuta",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-17",
+            "episode_id": 18,
+            "num_track": "15",
+            "num_played": 17,
+            "title": "Rise Again",
+            "game_title": "Tribes Ascend",
+            "author": "Chris Rickwood",
+            "author_link": "http:\/\/chrisrickwood.bandcamp.com\/album\/tribes-ascend-original-soundtrack",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-18",
+            "episode_id": 18,
+            "num_track": "",
+            "num_played": 18,
+            "title": "Hotline Miami Theme",
+            "game_title": "Hotline Miami 2",
+            "author": "Benny Smiles",
+            "author_link": "",
+            "type": "actu"
+        },
+        {
+            "id": "18-19",
+            "episode_id": 18,
+            "num_track": "16",
+            "num_played": 19,
+            "title": "Crows Over the City",
+            "game_title": "The Last Door",
+            "author": "Carlos Viola",
+            "author_link": "https:\/\/soundcloud.com\/carlos-viola",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-20",
+            "episode_id": 18,
+            "num_track": "17",
+            "num_played": 20,
+            "title": "Ode to Greed",
+            "game_title": "Payday 2 Big Bank",
+            "author": "Simon Viklund",
+            "author_link": "http:\/\/simonviklund.com\/",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-21",
+            "episode_id": 18,
+            "num_track": "18",
+            "num_played": 21,
+            "title": "Din don dan dan",
+            "game_title": "Ragnarok Online 2",
+            "author": "Yoko Kanno",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-22",
+            "episode_id": 18,
+            "num_track": "19",
+            "num_played": 22,
+            "title": "Yoshi\u2019s Story",
+            "game_title": "Yoshi\u2019s Story",
+            "author": "Kazumi Totaka",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "18-23",
+            "episode_id": 18,
+            "num_track": "",
+            "num_played": 23,
+            "title": "Hotline Quad City",
+            "game_title": "Hotline Miami, Space Jam",
+            "author": "Perturbator",
+            "author_link": "https:\/\/www.youtube.com\/watch?v=-B2F2hiHxTE",
             "type": "reprise"
         }
     ]
