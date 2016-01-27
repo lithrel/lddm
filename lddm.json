@@ -356,6 +356,16 @@
             "tags": [],
             "guest": "Jukio \"Kozilek\" Kallio (Nuclear Throne, Luftrausers, Gun Godz)",
             "track_count": 22
+        },
+        {
+            "id": 28,
+            "title": "Jukebox de janvier '16",
+            "date": "27 janvier 2016",
+            "url": "http:\/\/www.radiokawa.com\/episode\/les-demons-du-midi-28\/",
+            "duration": "PT1H39M29S",
+            "tags": [],
+            "guest": "Graeme Norgate (GoldenEye, Perfect Dark, Timesplitters)",
+            "track_count": 21
         }
     ],
     "tracks": [
@@ -6901,6 +6911,237 @@
             "game_title": "Silent Hill",
             "author": "Legacy Sessions",
             "author_link": "",
+            "type": "reprise"
+        },
+        {
+            "id": "28-1",
+            "episode_id": 28,
+            "num_track": "1",
+            "num_played": 1,
+            "title": "New Angels of Promise",
+            "game_title": "Omikron",
+            "author": "David Bowie, Reeves Gabrels",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-2",
+            "episode_id": 28,
+            "num_track": "2",
+            "num_played": 2,
+            "title": "Bradinsky",
+            "game_title": "Tetris (Tengen)",
+            "author": "Brad Fuller",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-3",
+            "episode_id": 28,
+            "num_track": "3",
+            "num_played": 3,
+            "title": "Snake’s Theme",
+            "game_title": "Metal Gear Solid Integral",
+            "author": "",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-4",
+            "episode_id": 28,
+            "num_track": "4",
+            "num_played": 4,
+            "title": "Waltzing on Rooftops and Cobblestones",
+            "game_title": "Assassin’s Creed Syndicate",
+            "author": "Austin Wintory",
+            "author_link": "https:\/\/austinwintory.bandcamp.com\/album\/assassins-creed-syndicate",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-5",
+            "episode_id": 28,
+            "num_track": "",
+            "num_played": 5,
+            "title": "The First City of Kharak",
+            "game_title": "Deserts of Kharak",
+            "author": "Paul Ruskay",
+            "author_link": "",
+            "type": "actu"
+        },
+        {
+            "id": "28-6",
+            "episode_id": 28,
+            "num_track": "5",
+            "num_played": 6,
+            "title": "Planet Error",
+            "game_title": "Double Kick Heroes",
+            "author": "Frédéric \"Elmobo\" Motte",
+            "author_link": "https:\/\/elmobo.bandcamp.com\/album\/double-kick-heroes-ludum-dare-34",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-7",
+            "episode_id": 28,
+            "num_track": "6",
+            "num_played": 7,
+            "title": "Main Theme",
+            "game_title": "Path of Exile",
+            "author": "Adgio Huntchings et Gauthier \"Igorrr\" Serre",
+            "author_link": "https:\/\/soundcloud.com\/igorrr",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-8",
+            "episode_id": 28,
+            "num_track": "7",
+            "num_played": 8,
+            "title": "Ken’s Theme",
+            "game_title": "Street Fighter Alpha 2",
+            "author": "Setsuo Yamamoto",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-9",
+            "episode_id": 28,
+            "num_track": "8",
+            "num_played": 9,
+            "title": "The DRM",
+            "game_title": "Death Ray Manta",
+            "author": "Gavin Harrisson",
+            "author_link": "http:\/\/gavinharrisonsounds.bandcamp.com\/track\/the-drm",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-10",
+            "episode_id": 28,
+            "num_track": "9",
+            "num_played": 10,
+            "title": "Jungle Cemetery",
+            "game_title": "Spelunky",
+            "author": "Eirik Suhrke",
+            "author_link": "https:\/\/phlogiston.bandcamp.com\/",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-11",
+            "episode_id": 28,
+            "num_track": "",
+            "num_played": 11,
+            "title": "Morceau tiré de la bande originale de Rambo First Blood Part 2 sur Commodore 64",
+            "game_title": "Rambo First Blood Part 2",
+            "author": "Martin Galway",
+            "author_link": "",
+            "type": "interlude"
+        },
+        {
+            "id": "28-12",
+            "episode_id": 28,
+            "num_track": "10",
+            "num_played": 12,
+            "title": "Steady Pulse",
+            "game_title": "Theme Hospital",
+            "author": "Russel Shaw, Tony Cox",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-13",
+            "episode_id": 28,
+            "num_track": "11",
+            "num_played": 13,
+            "title": "Kojiro Hyuga's Theme",
+            "game_title": "Captain Tsubasa 2 (NES)",
+            "author": "Keiji Yamagishi",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-14",
+            "episode_id": 28,
+            "num_track": "12",
+            "num_played": 14,
+            "title": "Wham, Gotcha!",
+            "game_title": "Batman Arkham City\/Knight",
+            "author": "Nick Arundel et Ron Fish",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-15",
+            "episode_id": 28,
+            "num_track": "13",
+            "num_played": 15,
+            "title": "Pirate Delivery",
+            "game_title": "Goscurry",
+            "author": "Isak J. Martinsson",
+            "author_link": "https:\/\/isakmartinsson.bandcamp.com\/",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-16",
+            "episode_id": 28,
+            "num_track": "",
+            "num_played": 16,
+            "title": "Enter Pony",
+            "game_title": "Pony Island",
+            "author": "Jonah Senzel",
+            "author_link": "https:\/\/jonahsenzel.bandcamp.com\/releases",
+            "type": "actu"
+        },
+        {
+            "id": "28-17",
+            "episode_id": 28,
+            "num_track": "14",
+            "num_played": 17,
+            "title": "Main Theme",
+            "game_title": "Medal of Honor",
+            "author": "Michael Giacchino",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-18",
+            "episode_id": 28,
+            "num_track": "15",
+            "num_played": 18,
+            "title": "Technical Skill (Stage 5-1)",
+            "game_title": "Genocide 2",
+            "author": "Hideyuki Shimono et Naoyuki Kimura",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-19",
+            "episode_id": 28,
+            "num_track": "16",
+            "num_played": 19,
+            "title": "Blazed Up Melpomene (Helena)",
+            "game_title": "Dead or Alive 2 Ultimate",
+            "author": "Makoto Hosoi",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-20",
+            "episode_id": 28,
+            "num_track": "17",
+            "num_played": 20,
+            "title": "Track 1",
+            "game_title": "Top Gear",
+            "author": "Barry Leitch",
+            "author_link": "https:\/\/soundcloud.com\/barryleitch",
+            "type": "tracklist"
+        },
+        {
+            "id": "28-21",
+            "episode_id": 28,
+            "num_track": "",
+            "num_played": 21,
+            "title": "60, sur l'album Where Good Marbles Go to Die",
+            "game_title": "Marble Madness",
+            "author": "Stemage et Disasterpeace",
+            "author_link": "https:\/\/stemage.bandcamp.com\/track\/60-ft-disasterpeace",
             "type": "reprise"
         }
     ]
