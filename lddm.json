@@ -388,6 +388,16 @@
             ],
             "guest": "Matt Uelmen (Diablo 1 et 2, la série Torchlight)",
             "track_count": 21
+        },
+        {
+            "id": 31,
+            "title": "Des Plaies et des Boss",
+            "date": "27/04/2016",
+            "url": "http://www.radiokawa.com/episode/les-demons-du-midi-31/",
+            "duration": "PT1H53M57S",
+            "tags": [],
+            "guest": "Chris Hülsbeck",
+            "track_count": 23
         }
     ],
     "tracks": [
@@ -7657,6 +7667,258 @@
             "game_title": "Diablo",
             "author": "The OneUps",
             "author_link": "https:\/\/loudr.fm\/release\/songs-for-the-recently-deceased\/fDSx5",
+            "type": "reprise"
+        },
+        {
+            "id": "31-1",
+            "episode_id": 31,
+            "num_track": 1,
+            "num_played": 1,
+            "title": "Emotionless Passion (Kazuya)",
+            "game_title": "Tekken 2",
+            "author": "Yoshie Arakawa, Yoshie Takayanagi",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-2",
+            "episode_id": 31,
+            "num_track": 2,
+            "num_played": 2,
+            "title": "Cleric Beast",
+            "game_title": "Bloodborne",
+            "author": "Tsukasa Saitoh",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-3",
+            "episode_id": 31,
+            "num_track": 3,
+            "num_played": 3,
+            "title": "Unknowable Geometry",
+            "game_title": "Superbrother’s Sword & Sworcery EP",
+            "author": "Jim Guthrie",
+            "author_link": "https:\/\/jimguthrie.bandcamp.com\/",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-4",
+            "episode_id": 31,
+            "num_track": 4,
+            "num_played": 4,
+            "title": "The Dark One",
+            "game_title": "Scott Pilgrim Vs The World",
+            "author": "Anamanaguchi",
+            "author_link": "http:\/\/anamanaguchi.com\/",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-5",
+            "episode_id": "31",
+            "num_track": "",
+            "num_played": 5,
+            "title": "Hierophant Theme",
+            "game_title": "Hyper Light Drifter",
+            "author": "Disasterpeace",
+            "author_link": "http:\/\/disasterpeace.com\/",
+            "type": "actu"
+        },
+        {
+            "id": "31-6",
+            "episode_id": 31,
+            "num_track": 5,
+            "num_played": 6,
+            "title": "King Dedede V2",
+            "game_title": "Super Smash Bros for Wii U",
+            "author": "Jun Ishikawa",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-7",
+            "episode_id": 31,
+            "num_track": 6,
+            "num_played": 7,
+            "title": "Engage the Enemy",
+            "game_title": "Xenoblade Chronicles",
+            "author": "ACE+",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-8",
+            "episode_id": 31,
+            "num_track": 7,
+            "num_played": 8,
+            "title": "Solaris Phase 2",
+            "game_title": "Sonic the Hedgehog (2006)",
+            "author": "Tomoya Ohtani",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-9",
+            "episode_id": 31,
+            "num_track": 8,
+            "num_played": 9,
+            "title": "The Inadequacy",
+            "game_title": "Runescape",
+            "author": "Ian Taylor",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-10",
+            "episode_id": "31",
+            "num_track": "",
+            "num_played": 10,
+            "title": "le thème principal",
+            "game_title": "Actraiser",
+            "author": "",
+            "author_link": "",
+            "type": "interlude"
+        },
+        {
+            "id": "31-11",
+            "episode_id": 31,
+            "num_track": 9,
+            "num_played": 11,
+            "title": "Born to be Bone",
+            "game_title": "Gitaroo Man",
+            "author": "Tomohiro Harada",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-12",
+            "episode_id": 31,
+            "num_track": 10,
+            "num_played": 12,
+            "title": "Fight with Seymour",
+            "game_title": "Final Fantasy X",
+            "author": "Nobuo Uematsu",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-13",
+            "episode_id": 31,
+            "num_track": 11,
+            "num_played": 13,
+            "title": "Revived Power",
+            "game_title": "Shadow of the Colossus",
+            "author": "Kow Otani",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-14",
+            "episode_id": 31,
+            "num_track": 12,
+            "num_played": 14,
+            "title": "Bombs, for Throwing at You (Four Part Plan)",
+            "game_title": "Portal 2",
+            "author": "Mike Morasky",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-15",
+            "episode_id": 31,
+            "num_track": 13,
+            "num_played": 15,
+            "title": "Evil Twins",
+            "game_title": "Crash Twinsanity",
+            "author": "Spiralmouth",
+            "author_link": "http:\/\/www.singers.com\/contemp\/spiralmouth.html",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-16",
+            "episode_id": 31,
+            "num_track": 14,
+            "num_played": 16,
+            "title": "Gothic Neclord",
+            "game_title": "Suikoden 2",
+            "author": "Keiko Fukami, Miki Higashino",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-17",
+            "episode_id": "31",
+            "num_track": "",
+            "num_played": 17,
+            "title": "Abyss Watchers",
+            "game_title": "Dark Souls 3",
+            "author": "Yuka Kitamura",
+            "type": "actu"
+        },
+        {
+            "id": "31-18",
+            "episode_id": 31,
+            "num_track": 15,
+            "num_played": 18,
+            "title": "Mid-boss",
+            "game_title": "The Dark Spire",
+            "author": "Kenichi Arakawa",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-19",
+            "episode_id": 31,
+            "num_track": 16,
+            "num_played": 19,
+            "title": "Grace & Glory",
+            "game_title": "Jet Set Radio Future",
+            "author": "BB Rights et Mic Harisson",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-20",
+            "episode_id": 31,
+            "num_track": 17,
+            "num_played": 20,
+            "title": "Final Zone (50 Hz)",
+            "game_title": "Sonic the Hedgehog",
+            "author": "Masato Nakamura",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-21",
+            "episode_id": 31,
+            "num_track": 18,
+            "num_played": 21,
+            "title": "Pursuit Theme",
+            "game_title": "Phoenix Wright Ace Attorney",
+            "author": "Masakazu Sugimori",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-22",
+            "episode_id": 31,
+            "num_track": 19,
+            "num_played": 22,
+            "title": "Snake Eater (a capella)",
+            "game_title": "Metal Gear Solid 3",
+            "author": "Norihiko Hibino, Cynthia Harell",
+            "author_link": "",
+            "type": "tracklist"
+        },
+        {
+            "id": "31-23",
+            "episode_id": "31",
+            "num_track": "",
+            "num_played": 23,
+            "title": "Spider Dance",
+            "game_title": "Undertale",
+            "author": "Smooth McGroove",
+            "author_link": "https:\/\/www.youtube.com\/user\/SmoothMcGroove",
             "type": "reprise"
         }
     ]
