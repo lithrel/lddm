@@ -498,6 +498,16 @@
             "tags": [],
             "guest": "Xavier - MisterMV - Danger (Crazy Frog Racer, Premier Action Soccer, Bokida)",
             "track_count": 23
+        },
+        {
+            "id": 42,
+            "title": "JUKEBOX DE MARS '17",
+            "date": "29/03/2017",
+            "url": "http://www.radiokawa.com/episode/les-demons-du-midi-42/",
+            "duration": "PT1H57M34S",
+            "guest": "Adam Drucker (aka DoseOne)",
+            "tags": [],
+            "track_count": 23
         }
     ],
     "tracks": [
@@ -10483,6 +10493,259 @@
             "num_played": 23,
             "num_track": "",
             "title": "Promise (Reprise)",
+            "type": "reprise"
+        },
+        {
+            "author": "Yugo Kanno",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Nioh",
+            "id": "42-1",
+            "num_played": 1,
+            "num_track": 1,
+            "title": "World Map",
+            "type": "tracklist"
+        },
+        {
+            "author": "Gavin Harrison",
+            "author_link": "https://gavinharrisonsounds.bandcamp.com/",
+            "episode_id": 42,
+            "game_title": "Halfway",
+            "id": "42-2",
+            "num_played": 2,
+            "num_track": 2,
+            "title": "Cover Me",
+            "type": "tracklist"
+        },
+        {
+            "author": "Naoki Kodaka",
+            "author_link": "https://gavinharrisonsounds.bandcamp.com/",
+            "episode_id": 42,
+            "game_title": "Journey to Silius",
+            "id": "42-3",
+            "num_played": 3,
+            "num_track": 3,
+            "title": "Title Theme",
+            "type": "tracklist"
+        },
+        {
+            "author": "Disasterpeace et Ian Snyder",
+            "author_link": "http://music.disasterpeace.com/album/the-floor-is-jelly-ost",
+            "episode_id": 42,
+            "game_title": "The Floor is Jelly",
+            "id": "42-4",
+            "num_played": 4,
+            "num_track": 4,
+            "title": "Buyoancy and Gravity",
+            "type": "tracklist"
+        },
+        {
+            "author": "Joris de Man",
+            "author_link": "https://soundcloud.com/jorisdeman",
+            "episode_id": 42,
+            "game_title": "Horizon Zero Dawn",
+            "id": "42-5",
+            "num_played": 5,
+            "num_track": "",
+            "title": "Meridian , Shining",
+            "type": "actu"
+        },
+        {
+            "author": "Dynamedion",
+            "author_link": "http://dynamedion.com/home/",
+            "episode_id": 42,
+            "game_title": "Cities XL",
+            "id": "42-6",
+            "num_played": 6,
+            "num_track": 5,
+            "title": "Atmosphere 1",
+            "type": "tracklist"
+        },
+        {
+            "author": "Milton Guasti",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "AM2R : Return of Samus",
+            "id": "42-7",
+            "num_played": 7,
+            "num_track": 6,
+            "title": "Hydro Station",
+            "type": "tracklist"
+        },
+        {
+            "author": "Mari Yamaguchi",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Super Ghouls ‘N Ghosts",
+            "id": "42-8",
+            "num_played": 8,
+            "num_track": 7,
+            "title": "Stage 01",
+            "type": "tracklist"
+        },
+        {
+            "author": "Kohei Tanaka",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Alundra",
+            "id": "42-9",
+            "num_played": 9,
+            "num_track": 8,
+            "title": "The Wind That Shook the Earth",
+            "type": "tracklist"
+        },
+        {
+            "author": "Alain Johannes",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Ghost Recon Wildlands",
+            "id": "42-10",
+            "num_played": 10,
+            "num_track": 9,
+            "title": "Inca Road",
+            "type": "tracklist"
+        },
+        {
+            "author": "",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Arkanoid",
+            "id": "42-11",
+            "num_played": 11,
+            "num_track": "",
+            "title": "Arkanoid",
+            "type": "interlude"
+        },
+        {
+            "author": "Tommy Tallaric",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Global Gladiators",
+            "id": "42-12",
+            "num_played": 12,
+            "num_track": 10,
+            "title": "Title Screen",
+            "type": "tracklist"
+        },
+        {
+            "author": "Daisuke Ishiwatari",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Guilty Gear X",
+            "id": "42-13",
+            "num_played": 13,
+            "num_track": 11,
+            "title": "Holy Orders (Be Just of be Dead)",
+            "type": "tracklist"
+        },
+        {
+            "author": "Ayumi Hamasaki",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Tales of Xilia",
+            "id": "42-14",
+            "num_played": 14,
+            "num_track": 12,
+            "title": "Opening Theme",
+            "type": "tracklist"
+        },
+        {
+            "author": "HEALTH",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Max Payne 3",
+            "id": "42-15",
+            "num_played": 15,
+            "num_track": 13,
+            "title": "Combat Drugs",
+            "type": "tracklist"
+        },
+        {
+            "author": "Kelly Bailley",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Half Life 2",
+            "id": "42-16",
+            "num_played": 16,
+            "num_track": 14,
+            "title": "Triage at Dawn",
+            "type": "tracklist"
+        },
+        {
+            "author": "Christopher Larkin",
+            "author_link": "https://christopherlarkin.bandcamp.com/",
+            "episode_id": 42,
+            "game_title": "Hollow Knight",
+            "id": "42-17",
+            "num_played": 17,
+            "num_track": "",
+            "title": "Mantis Lords",
+            "type": "actu"
+        },
+        {
+            "author": "Yoko Shimomura",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Mario & Luigi : Inside Bowser’s Story",
+            "id": "42-18",
+            "num_played": 18,
+            "num_track": 15,
+            "title": "Final Boss",
+            "type": "tracklist"
+        },
+        {
+            "author": "Grant Kirkhope",
+            "author_link": "https://grantkirkhope.bandcamp.com/",
+            "episode_id": 42,
+            "game_title": "Kingdom of Amalur",
+            "id": "42-19",
+            "num_played": 19,
+            "num_track": 16,
+            "title": "Reckoning Main Theme",
+            "type": "tracklist"
+        },
+        {
+            "author": "Takeharu Ishimoto",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "The World Ends With You",
+            "id": "42-20",
+            "num_played": 20,
+            "num_track": 17,
+            "title": "Three Minutes Clapping",
+            "type": "tracklist"
+        },
+        {
+            "author": "Keisuke Tsukahara",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "Alien Storm",
+            "id": "42-21",
+            "num_played": 21,
+            "num_track": 18,
+            "title": "Here We Go!",
+            "type": "tracklist"
+        },
+        {
+            "author": "Danny Bensi et Saunder Jurriaans",
+            "author_link": "",
+            "episode_id": 42,
+            "game_title": "For Honor",
+            "id": "42-22",
+            "num_played": 22,
+            "num_track": 19,
+            "title": "I am War",
+            "type": "tracklist"
+        },
+        {
+            "author": "Alina Gingertail",
+            "author_link": "https://www.youtube.com/user/Nyasu93/videos",
+            "episode_id": 42,
+            "game_title": "Bloodborne",
+            "id": "42-23",
+            "num_played": 23,
+            "num_track": "",
+            "title": "Cleric Beast (Reprise)",
             "type": "reprise"
         }
     ]
