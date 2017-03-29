@@ -519,7 +519,7 @@
             "title": "The Amazon",
             "game_title": "Ducktales Remastered",
             "author": "Jake Kaufman",
-            "author_link": "",
+            "author_link": "https://virt.bandcamp.com/",
             "type": "actu"
         },
         {
@@ -530,7 +530,7 @@
             "title": "PAxton",
             "game_title": "Element4l",
             "author": "Mind Tree",
-            "author_link": "",
+            "author_link": "https://mindtree.bandcamp.com/",
             "type": "actu"
         },
         {
@@ -552,7 +552,7 @@
             "title": "Main Theme",
             "game_title": "Strike Suit Zero",
             "author": "Paul Ruskay",
-            "author_link": "",
+            "author_link": "https://soundcloud.com/paul-ruskay",
             "type": "tracklist"
         },
         {
@@ -585,7 +585,7 @@
             "title": "The Sun Rises",
             "game_title": "Okami",
             "author": "Rei Kondoh",
-            "author_link": "",
+            "author_link": "https://soundcloud.com/reikondoh",
             "type": "tracklist"
         },
         {
@@ -629,7 +629,7 @@
             "title": "Act on Instinct",
             "game_title": "Command and Conquer",
             "author": "Frank Klepacki",
-            "author_link": "",
+            "author_link": "http://www.frankklepacki.com/",
             "type": "tracklist"
         },
         {
@@ -640,7 +640,7 @@
             "title": "Zero",
             "game_title": "Ace Combat Zero",
             "author": "Keiki Kobayashi",
-            "author_link": "",
+            "author_link": "https://www.keikikobayashi.com/",
             "type": "tracklist"
         },
         {
@@ -3774,7 +3774,7 @@
             "title": "Turanic Raiders Battle Music",
             "game_title": "Homeworld",
             "author": "Paul Ruskay",
-            "author_link": "",
+            "author_link": "https://soundcloud.com/paul-ruskay",
             "type": "tracklist"
         },
         {
@@ -8627,7 +8627,7 @@
         },
         {
             "author": "Frank Klepacki",
-            "author_link": "",
+            "author_link": "http://www.frankklepacki.com/"
             "episode_id": 34,
             "game_title": "8-Bit Armies",
             "id": "34-9",
