@@ -71,7 +71,6 @@
                     }},
                     //{data: function() { return ''; }},
                     {data: function (row) {
-                        console.log(row.type, lddmData.episodes[row.episode_id - 1].guest);
                         return row.type === 'interlude' ? lddmData.episodes[row.episode_id - 1].guest : '';
                     }},
                     {data: 'type'}
